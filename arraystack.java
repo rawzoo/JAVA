@@ -1,3 +1,6 @@
+//An Implementation of Stack Using array without using stack class
+//RAJU KUMAR
+
 import java.util.*;
 class arrays {
    static final int size = 1000;
